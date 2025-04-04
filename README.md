@@ -50,6 +50,7 @@ Exemplos de perguntas:
 
 ![interface](/images/app.png)
 
+
 7- Abra o navegador e acesse o Grafana para carregar o dashboard.
 
 localhost:3000
