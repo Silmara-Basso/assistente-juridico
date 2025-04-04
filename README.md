@@ -37,7 +37,7 @@ password: airflow
 
 localhost:8501
 
-![interface](/images/dag.png)
+![interface](/images/Dag.png)
 
 Execução da Dag
 ![interface](/images/dag2.png)
