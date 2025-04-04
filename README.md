@@ -1,8 +1,9 @@
-# assistente-juridico
+# Assistente Jurídico
 Assistente Jurídico usando IA Generativa com Airflow, LLM, RAG, ElasticSearch e Grafana
 
+## Aaplicação web com interface para um LLM  Open-Source, RAG com ElasticSearch alimentadas periodicamente com Airflow e com performance do LLM monitorada em tempo real com Grafana.
 
-# Instruções Para Execução do Projeto
+### Instruções Para Execução do Projeto
 
 1- Crie sua conta no HuggingFace, acesse o site abaixo e crie sua chave gratuita (token) para a API:
 
