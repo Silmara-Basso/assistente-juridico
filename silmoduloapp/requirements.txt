@@ -1,0 +1,5 @@
+streamlit==1.39.0
+elasticsearch==8.15.1
+stqdm==0.0.5
+transformers==4.46.1
+psycopg2==2.9.10
