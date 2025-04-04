@@ -8,14 +8,12 @@ Assistente Jurídico usando IA Generativa com Airflow, LLM, RAG, ElasticSearch e
 
 https://huggingface.co/settings/tokens
 
-2- Edite o arquivo abaixo e altere o valor de `HUGGINGFACE_KEY para sua chave.`
+2- Edite o arquivo abaixo e altere o valor de HUGGINGFACE_KEY para sua chave.
 
 docker-compose.yaml
-`em` 
-`  app:`
-`    build: silmoduloapp/.`
-`    container_name: sil_app`
+
 `    environment:`
+
 `      - HUGGINGFACE_KEY=<coloque-aqui-sua-chave> `
 
 3- Crie os containers:
